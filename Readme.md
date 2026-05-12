@@ -24,16 +24,7 @@ A Machine Learning web application built using **Python**, **Scikit-learn**, and
 
 ---
 
-# Project Structure
 
-student-score-predictor/
-│
-├── app.py
-├── train_model.py
-├── model.pkl
-├── student_data.csv
-├── requirements.txt
-└── README.md
 
 ---
 
